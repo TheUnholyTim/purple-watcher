@@ -7,7 +7,8 @@
 
 <p>{} I'm really trying to get used to EMACS so... that's a bonus I guess. </p>
 </div>
-#Other medias that can be found about this project are:
+
+# Other medias that can be found about this project are:
 * Tumblr
   - https://purple-watcher.tumblr.com
 
